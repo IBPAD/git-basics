@@ -28,6 +28,7 @@ Recomenda-se o uso do próprio bash ou do [Git Kraken](https://www.gitkraken.com
 - conflitos
 
 >### Staging area
+É uma área intermediária na qual os commits podem ser formatados e revisados antes de sua confirmação
 - add
 - rm
 - commit
@@ -37,3 +38,4 @@ Recomenda-se o uso do próprio bash ou do [Git Kraken](https://www.gitkraken.com
 - fork
 - pull
 - push
+- adição de repositório remoto
