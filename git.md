@@ -30,6 +30,7 @@ Recomenda-se o uso do próprio bash ou do [Git Kraken](https://www.gitkraken.com
 >### Staging area
 - add
 - rm
+- commit
 
 >### Remote Repositories
 - clone
