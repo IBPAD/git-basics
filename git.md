@@ -20,3 +20,19 @@ Para instalação em sistema Windows, basta fazer o download do instalador no li
 Pode-se utilizar o cliente bash do git ou uma ferramenta de interface gráfica do mesmo. O endereço https://git-scm.com/downloads/guis relaciona algumas ferramentas desse tipo segundo a plataforma.
 
 Recomenda-se o uso do próprio bash ou do [Git Kraken](https://www.gitkraken.com/)
+
+>### Branching and Merging
+- branch
+- merge
+- checkout
+- conflitos
+
+>### Staging area
+- add
+- rm
+
+>### Remote Repositories
+- clone
+- fork
+- pull
+- push
