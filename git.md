@@ -31,9 +31,9 @@ Recomenda-se o uso do próprio bash ou do [Git Kraken](https://www.gitkraken.com
 
 - __branch__
 
-criar uma branch: `git branch <branch_name>`
+criar uma branch: `git branch <branch>`
 
-excluir uma branch: `git branch -d <branch_name>`
+excluir uma branch: `git branch -d <branch>`
 
 - __checkout__
 
@@ -41,6 +41,7 @@ alterne para uma branch:`git checkout <branch>`
 
 criar uma nova branch e alternar para a mesma:`git checkout -b <branch>`
 
+excluir modificações em um arquivo no working directory: `git checkout filename`
 - __merge__
 - __conflitos__
 
@@ -55,6 +56,10 @@ adicionar todas as modificações à staging area: `git add .`
 - __commit__
 
 realizar o commit das alterações na staging area: `git commit -m "message"`
+
+- __reset__
+
+redefinir o repositório para o estado do último commit: `git reset --hard`
 
 >### Remote Repositories
 
