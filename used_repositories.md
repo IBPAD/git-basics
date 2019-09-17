@@ -14,6 +14,6 @@
 
 * [analise-ibpad/fb_page-scraping_comments](https://github.com/analise-ibpad/fb_page-scraping_comments) `private`
 
-* [analise-ibpad/video_list](https://github.com/analise-ibpad/video_list) `private`
+* [analise-ibpad/youtube-video-list](https://github.com/analise-ibpad/video_list) `private`
 
 * [analise-ibpad/template-rede](https://github.com/analise-ibpad/template-rede) `private`
