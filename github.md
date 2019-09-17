@@ -17,10 +17,10 @@ git config --global user.email "youremail@example.com"
 ```
 
 >## <span style="color:pink">Conceitos importantes</span>
-- organizações
 - contribuidores
 - issues
 - pull requests
+- organizações
 
 >## <span style="color:pink">Arquivos importantes</span>
 - .gitignore
