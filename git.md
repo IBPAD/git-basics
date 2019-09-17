@@ -61,6 +61,13 @@ Para resolver um conflito deve-se eliminar as marcações criadas pelo git, esco
 
 >## <span style="color:pink">Staging area</span>
 É uma área intermediária na qual os commits podem ser formatados e revisados antes de sua confirmação
+
+<div align="center">
+	<img width="auto" height="150" src="images/staging.jpg" alt="Git">
+	<br>
+    <br>
+</div>
+
 >#### __add__
 
 adicionar as modificações de um arquivo à staging area: `git add <filename>`
@@ -87,6 +94,12 @@ caso dê problema, volte a situação antes do reset: `git reflog`
 `git reset --hard <hash>`
 
 >## <span style="color:pink">Remote Repositories</span>
+
+<div align="center">
+	<img width="auto" height="300" src="images/remotes.jpg" alt="Git">
+	<br>
+    <br>
+</div>
 
 >#### __clone__
 
